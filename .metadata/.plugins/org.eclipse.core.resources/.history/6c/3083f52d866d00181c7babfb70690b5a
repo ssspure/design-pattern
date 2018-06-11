@@ -1,0 +1,5 @@
+package com.ssspure.inf;
+
+public interface Observer {
+
+}

@@ -1,0 +1,8 @@
+package com.ssspure.inf;
+
+public interface Subject {
+
+	public void registerObserver() {
+		
+	}
+}
